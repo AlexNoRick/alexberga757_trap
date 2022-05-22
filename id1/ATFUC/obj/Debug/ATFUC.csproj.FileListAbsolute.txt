@@ -1,0 +1,5 @@
+d:\le ngoc cuong\trap\ATFUC\ATFUC\bin\Debug\ATFUC.exe
+d:\le ngoc cuong\trap\ATFUC\ATFUC\bin\Debug\ATFUC.pdb
+d:\le ngoc cuong\trap\ATFUC\ATFUC\obj\Debug\ResolveAssemblyReference.cache
+d:\le ngoc cuong\trap\ATFUC\ATFUC\obj\Debug\ATFUC.exe
+d:\le ngoc cuong\trap\ATFUC\ATFUC\obj\Debug\ATFUC.pdb
